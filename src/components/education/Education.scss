@@ -1,0 +1,23 @@
+.education{
+    padding: 0 20px;
+    background-color: white;
+    .education_1{
+        line-height: 2;
+        color: #ec7263;
+        font-size: 1.8em;
+    }
+    li{
+        display: flex;
+        margin: 15px 0;
+    }
+    div{
+        margin-left: 60px;
+        background-color: rgb(221, 219, 219);
+    }
+    div > p{
+        margin: 10px;
+    }
+    .content{
+        font-size: 1.3em;
+    }
+}
